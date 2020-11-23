@@ -1,0 +1,34 @@
+Neighbourhoods,Population,Area (km2),Population Density,Average distance of binsÿ,Predominant land use,Num. of street segments,Number of bins
+Bronx,2717758,110,24707,4.78,amenity/restaurants,17338,108
+Manhattan,3123068,59.1,52844,5.82,amenity/restaurants,9702,184
+Queens,4460101,280,15929,8.63,amenity/restaurants,55192,117
+Brooklyn,4970026,180,27611,6.35,leisure/parks,22709,94
+Staten Island,912458,152,6003,6.71,leisure/parks,16060,42
+Salamanca,145344,5.41,26865,1.22,Amenities/ restaurants,2050,736
+Chamartin,141527,9.19,15400,1.83,Amenities/ restaurants,2935,1095
+Moratalaz,92958,6.34,14662,1.08,leisure-parks,1728,1933
+Ciudad-Lineal,212565,11.36,18711,2.02,Amenities/ restaurants,4201,2258
+Hortaleza,185738,28,6633,1.9,leisure/parks,7294,2838
+Vicalvaro,72213,32.7,2208,1.32,leisure/parks,3498,1547
+San Blas-Canillejas,155825,21.81,7144,2.12,leisure/parks,4545,2218
+Barajas,48315,42.66,1132,1.21,Amenities/ restaurants,4478,1003
+Retiro,118252,5.37,22020,1.13,Amenities/ restaurants,2493,495
+Centro,84988,5.87,14478,0.36,amenity/restaurants,3502,20
+Este,67289,126.63,531,3.42,amenity/restaurants,2860,285
+Ciudad Jardin,37769,76.21,495,0.07,building/schools,2693,2
+Bailen-Miraflores,62834,6.39,9066,0.51,building/schools,1429,31
+Palma-Palmilla,29862,25.37,1177,0.33,building/schools,967,6
+Cruz de Humilladero,93955,9.91,9480,1.81,building/schools,3383,142
+Carretera de Cadiz,113424,5.6,20254,2.62,building/schools,3743,265
+Churriana,20449,37.32,547,3.97,leisure/parks,3223,409
+Campanillas,17472,59.77,292,1.03,building/schools,1335,202
+Puerto de la Torre,49442,42.26,1169,1.14,building/schools,1556,233
+Teatinos-Universidad,34405,,,2.43,leisure/parks,2191,100
+Madla,21236,13.87,1530.9,2.35,building/schools,2118,136
+Hundv†g,13217,6.41,2061.9,1.4,building/schools,2026,74
+Hillev†g,19681,8.08,2435.7,1.45,leisure/parks,3892,212
+Storhaug,16544,6.43,2571.9,0.86,amenity/restaurants,1793,188
+Hinna,22581,15,1505.4,1.65,building/schools,777,187
+Eiganes og V†land,23616,7.01,3368.9,1.39,leisure/parks,3443,181
+Tasta,15319,10.87,1409.2,0.74,shop/supermarkets,1943,98
+Rennes?y,4755,65.51,72.58,3.12,amenity/restaurants,38,27
